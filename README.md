@@ -78,12 +78,6 @@ This project uses a pizza sales dataset consisting of four main tables:
 
 ---
 
-## 🧩 Entity Relationship Diagram
-
-The following ER diagram shows the relationship between tables in the database:
-
-![Entity Relationship Diagram](https://sdmntprwestus.oaiusercontent.com/files/00000000-260c-5230-9428-e64f3a22fce1/raw?se=2025-04-04T12%3A52%3A35Z&sp=r&sv=2024-08-04&sr=b&scid=05f8e0fc-3a95-5325-9a52-a29e5291246b&skoid=aa8389fc-fad7-4f8c-9921-3c583664d512&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-04T09%3A09%3A24Z&ske=2025-04-05T09%3A09%3A24Z&sks=b&skv=2024-08-04&sig=vbWuKKGdvPed5NIjdBvVa/dOejGtw0wVPQ9e0CqHyWw%3D)
-
 ---
 
 ## 📌 Conclusion
